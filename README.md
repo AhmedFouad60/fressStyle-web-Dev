@@ -1,4 +1,4 @@
-# repo to include all of my fast code projects [not specifi to one lanuge or framework]
+# repo to include all of my fast code projects [not specific to one language or framework]
 
 * it will include bootstrap ,sass,laravel,nodejs,React, ............ :) 
 
