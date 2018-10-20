@@ -6,8 +6,14 @@ html
   body
     ul
       li My normal text
-      li.
-         text hello
-         hello lkajlfkajlkfjladfjlajdflkafklfaklfj
-      
+      input(type="text").anyclass
+    if(title)
+      p title exists
+    - var condition = true;
+    if(condition)
+      p true
+
+    - var anyArray = [1,2,3]
+    each value in anyArray
+      p= value
     block content
