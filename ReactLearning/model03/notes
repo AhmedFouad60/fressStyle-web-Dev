@@ -1,0 +1,6 @@
+Changing the state of the Applications:
+****************************************
+You Application states should only be changed and handled in few selected components  Also referred to as containers
+
+like App.js  it's referred as component but it containes some part of our Application  i.e(Person.js)
+
